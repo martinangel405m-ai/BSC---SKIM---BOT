@@ -1,0 +1,11 @@
+# Blockchain interaction
+web3==7.8.0
+
+# Web framework
+flask==3.1.0
+
+# HTTP requests
+requests==2.32.3
+
+# WSGI server
+gunicorn==23.0.0
